@@ -6,9 +6,13 @@ A feasibility report is an analysis on how successfully a project can be complet
 #### Components
 The components within a feasibility study are as followed:
 Description of the product, with the layout and the deliverables
+
 Market feasibility, describing the industry, market protentional, highlighting competitors and sales estimations.
+
 Technical feasibility, with details on deliverables and how they would be delivered.
+
 Financial feasibility, a plan on the amount of funding for the product, the sources of capital and return on the investment.
+
 Organizational feasibility, a structure of the project including management and the resources for that project.
 
 #### Impact of feasibility
