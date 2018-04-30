@@ -8,13 +8,23 @@ A feasibility report is an analysis on how successfully a project can be complet
 The components within a feasibility study are as followed:
 Description of the product, with the layout and the deliverables
 
-Market feasibility, describing the industry, market potential, highlighting competitors and sales estimations.
+##### The Project Scope
+This step defines the business problem that has to be addressed, being definitive and gets straight to the point. This scope also defines the parts of the business that would be affected directly or indirectly, including the participants of the project and the end-users. If well-defined, it can make for an accurate feasibility study, otherwise if the project starts without a well-defined scope, then budget and time could be an issue.
 
-Technical feasibility, with details on deliverables and how they would be delivered.
+##### Market feasibility
+This step examines the business environment where the product will be placed. Strengths and weaknesses from the current approach can be discovered here, as well as reviewing what is faced by a project in order to focus on the big picture, such as the strengths, weaknesses, opportunities and threats.
 
-Financial feasibility, a plan on the amount of funding for the product, the sources of capital and return on the investment.
+##### The Requirements
+Two groups of requirements are key in this component; technical and organizational. If there is a potential and demand for the product, technical and resource requirements need to be identified. Depending on the objective of the project, the project managers have to identify the physical and economic resources for that product and failed projects and unfulfilled promises may come from understated resources.
 
-Organizational feasibility, a structure of the project including management and the resources for that project.
+##### The Approach
+Next is the course of action to meet the requirements. At this point other solutions are compared here until the preferred one is chosen. Factors that come into play when finalizing the approach, such as does it meet the requirements and if it is a viable and practical solution.
+
+##### Evaluation
+Next is to examine the cost effectiveness for the approach and the total cost. The comparison of the other solutions does continue but mainly for estimation. After the total cost has been calculated, a return on investment is included in the evaluation and cost summary.
+
+##### Review
+Now all of the elements are assembled into the final study and a formal review is conducted. This review is used for the accuracy of the study and used to make the project decision. The review can still be revised or rejected at this point, but if approved, the parties sign the document and the solution is incorporated into the project.
 
 #### Impact of feasibility
 
