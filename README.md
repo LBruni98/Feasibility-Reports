@@ -7,7 +7,7 @@ A feasibility report is an analysis on how successfully a project can be complet
 The components within a feasibility study are as followed:
 Description of the product, with the layout and the deliverables
 
-Market feasibility, describing the industry, market protentional, highlighting competitors and sales estimations.
+Market feasibility, describing the industry, market potential, highlighting competitors and sales estimations.
 
 Technical feasibility, with details on deliverables and how they would be delivered.
 
@@ -22,3 +22,4 @@ Technical feasibility is used to provide details on deliverables and what will b
 Economic feasibility is the cost and time given to that project. The cost is more of an estimate rather than an exact amount, so throughout the project, there could be risks of the project delay or extended deadline, cutbacks, etc. and the overall project could be effected much to the dismay of the project manager. The project could effectively be altered to fit the newer resources and costs.
 
 Organisational Feasibility is the structure of the project that highlights on management of the project and the resources. The factors involved such as the skill of the development team could impact the overall design of the project or what resources are involved could change the perception of the project and this could change on how the project will be designed.
+
